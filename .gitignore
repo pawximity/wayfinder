@@ -22,6 +22,7 @@ dist/
 # Editor / IDE settings
 .vscode/
 .idea/
+*.sublime-*
 
 # macOS files
 .DS_Store
